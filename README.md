@@ -1,8 +1,6 @@
 # tf-ephemeral
-Comment Terraform 1.10 révolutionne la gestion des secrets en utilisant des valeurs éphémères dans Azure.
+[Comment Terraform 1.10 révolutionne la gestion des secrets en utilisant des valeurs éphémères dans Azure](https://blog.smartcloudarchitect.fr/terraform-ephemeral-values-in-practice)
 - L'astuce indispensable pour le mettre en place dès à présent !
-
-[L'article technique associé](https://blog.smartcloudarchitect.fr/terraform-ephemeral-values-in-practice)
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
